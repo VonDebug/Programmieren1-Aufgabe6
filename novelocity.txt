@@ -1,0 +1,5 @@
+Speed: 50
+Full note duration: 120
+Instrument: Acoustic Grand Piano
+C'4 C'4 C'4 A2 E'8 C'4 A2 E'8 C'4
+E'4 E'4 E'4 F'2 E'8 C'4 A2 E'8 C'2
